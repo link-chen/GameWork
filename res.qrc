@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>add1.png</file>
+        <file>back.png</file>
+        <file>code.png</file>
+        <file>error.png</file>
+        <file>load.png</file>
+        <file>loadon.png</file>
+        <file>lock.png</file>
+        <file>wechat.png</file>
+        <file>qq.png</file>
+        <file>quanquan.png</file>
+        <file>search.png</file>
+        <file>test.png</file>
+        <file>adding.png</file>
+    </qresource>
+</RCC>
